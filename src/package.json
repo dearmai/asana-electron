@@ -1,0 +1,23 @@
+
+{
+  "name": "asana",
+  "version": "1.0.0",
+  "description": "A Asana Electron application",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Rinjae",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
